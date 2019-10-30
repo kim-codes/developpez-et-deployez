@@ -2,7 +2,7 @@ Contenu pour le série de webinaires 'Développez et déployez dans le nuage inf
 
 # Développez et déployez dans le nuage informatique
 
-Inscrivez-vous aux webinaires: [aka.ms/DDNI](http://aka.ms/DDNI)
+Inscrivez-vous aux webinaires: 
 
 - [Exploitez efficacement Kubernetes pour mettre à échelle l'infrastructure de vos applications](https://info.microsoft.com/CA-AZUREPLAT-WBNR-FY19-04Apr-17-ExploitezefficacementKubernetespourmettreaechellelinfrastructuredevosapplications-MCW0012259_02OnDemandRegistration-ForminBody.html?wt.mc_id=AID2444354_QSG_355020)
 
