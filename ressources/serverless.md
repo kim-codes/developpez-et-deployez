@@ -1,6 +1,6 @@
 ## Ressources additionelle 
 
-### Introduction sure l'informatique serverless
+### Introduction sur l'informatique serverless
 - https://azure.microsoft.com/fr-ca/overview/serverless-computing/
 
 ### Créer une application web sans serveur dans Azure
